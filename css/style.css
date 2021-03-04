@@ -46,8 +46,8 @@ p.b{
   display: inline-flex;
   text-decoration: none;
   font-size: 18px;
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   color: #fff;
   justify-content: center;
   align-items: center;
@@ -58,8 +58,8 @@ p.b{
 .social-buttons a::before{
   content: "";
   position: absolute;
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   background: linear-gradient(45deg,#22a6b3,#30336b);
   border-radius: 50%;
   z-index: -1;
