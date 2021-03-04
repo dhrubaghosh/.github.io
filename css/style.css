@@ -52,7 +52,7 @@ p.b{
   justify-content: center;
   align-items: center;
   position: relative;
-  margin: 0 4px;
+  margin: 3 4px;
 }
 
 .social-buttons a::before{
